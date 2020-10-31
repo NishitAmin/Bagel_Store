@@ -1,0 +1,13 @@
+*************SHERIDAN BAGEL SHOP*************
+Tue Mar 25 08:35:40 GMT-05:00 2014
+Item:			Qty	Amount
+White Bagel		2	$2.50
+Toppings:
+  Cream Cheese		2	$1.00
+  Raspberry Jam		2	$1.50
+Cappuccino		2	$4.00
+				-----------
+Pretax Total			$9.00
+Sales Tax 13%			$1.17
+Total Sale   			$10.17
+*********THANK YOU FOR YOUR ORDER*********
